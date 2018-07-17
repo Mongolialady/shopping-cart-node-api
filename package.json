@@ -1,0 +1,15 @@
+{
+  "name": "shopping-cart-node-api",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "emailjs": "^2.2.0",
+    "express": "3.2.6",
+    "jade": "*"
+  }
+}
